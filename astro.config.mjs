@@ -18,7 +18,7 @@ export default defineConfig({
 			noExternal: ["astro", "@astrojs/image"],
 		},
 	},
-	site: 'https://vijiatjack.github.io',
-  	base: '/nookoffice'
+	site: 'https://boonki.github.io',
+  	base: '/ACNH_noautoplay'
 });
 
